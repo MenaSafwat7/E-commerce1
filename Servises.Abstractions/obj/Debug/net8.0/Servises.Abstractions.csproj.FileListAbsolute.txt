@@ -1,0 +1,16 @@
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\bin\Debug\net8.0\Servises.Abstractions.deps.json
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\bin\Debug\net8.0\Servises.Abstractions.dll
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\bin\Debug\net8.0\Servises.Abstractions.pdb
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\bin\Debug\net8.0\Shared.dll
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\bin\Debug\net8.0\Shared.pdb
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.Abstractions.AssemblyInfo.cs
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.Abstractions.sourcelink.json
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.21FF35CE.Up2Date
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.Abstractions.dll
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\refint\Servises.Abstractions.dll
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\Servises.Abstractions.pdb
+C:\Users\Electronica Care\source\repos\E-commerce\Core\Servises.Abstractions\obj\Debug\net8.0\ref\Servises.Abstractions.dll
